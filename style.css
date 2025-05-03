@@ -1,0 +1,28 @@
+html {
+    background-color: whitesmoke;
+}
+body {
+    max-width: max-content;
+    margin: auto;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nomarginpara{
+    margin: 0;
+}
+
+li {
+    margin-top: 10px;
+    max-width: 1000px;
+}
+
+.left-footer {
+    position: absolute;
+    margin-top: auto;
+}
